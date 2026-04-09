@@ -23,7 +23,7 @@ Sou um entusiasta da tecnologia em busca da minha primeira oportunidade como est
 
 - [LinkedIn](https://www.linkedin.com/in/thiago-silva-351b7a334?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - [E-mail](thiagosilva.reis7@gmail.com)
-- 
+
 
 <!--
 **thiago-silva7/thiago-silva7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
