@@ -6,7 +6,6 @@ Sou um entusiasta da tecnologia em busca da minha primeira oportunidade como est
 
 - 🎓 Cursando Redes de Computadores na escola EEEP LEONEL DE MOURA BRIZOLA
 - 🚀 Atualmente aprofundando conhecimentos em JavaScript.
-- 🛠️ Objetivo: Criar aplicações fluidas e entender como os dados trafegam até o usuário final.
 
 ---
 
